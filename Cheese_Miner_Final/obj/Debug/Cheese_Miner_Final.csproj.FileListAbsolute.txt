@@ -1,0 +1,21 @@
+\\data.adir.hull.ac.uk\~515551\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe.config
+\\data.adir.hull.ac.uk\~515551\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe
+\\data.adir.hull.ac.uk\~515551\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.pdb
+\\data.adir.hull.ac.uk\~515551\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\~515551\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.exe
+\\data.adir.hull.ac.uk\~515551\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.pdb
+G:\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe.config
+G:\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.exe
+G:\Programming 1 coursework\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.pdb
+\\data.adir.hull.ac.uk\~515551\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe.config
+\\data.adir.hull.ac.uk\~515551\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.exe
+\\data.adir.hull.ac.uk\~515551\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.pdb
+\\data.adir.hull.ac.uk\~515551\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe
+\\data.adir.hull.ac.uk\~515551\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.pdb
+\\data.adir.hull.ac.uk\~515551\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.csprojResolveAssemblyReference.cache
+E:\Visual studio\C#\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe.config
+E:\Visual studio\C#\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.exe
+E:\Visual studio\C#\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.pdb
+E:\Visual studio\C#\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.exe
+E:\Visual studio\C#\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\bin\Debug\Cheese_Miner_Final.pdb
+E:\Visual studio\C#\Visual Studio 2013\Projects\Cheese_Miner_Final\Cheese_Miner_Final\obj\Debug\Cheese_Miner_Final.csprojResolveAssemblyReference.cache
